@@ -1,0 +1,3 @@
+0.1 0.1 0.1 0.1 32 32 0.1 1500 50 10000 0.001 0 0.02
+
+Raa_ Rbb_ Rab_ Rbc_ W_ H_ D_ T_ Ainit_ T_simul_ Wmin_ Pmut_ Pdeath_
